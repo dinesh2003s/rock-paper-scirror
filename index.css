@@ -1,0 +1,33 @@
+body
+{
+    background-color: #ffff0085;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.buttons
+{
+    border-radius: 50%;
+    width: 160px;
+    height: 160px;
+    cursor: pointer;
+}
+body img
+{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+body div
+{
+    margin-top: 10px;
+    color: #100369;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    
+}
+.computerpick
+{
+    font-size: 25px ;
+}
