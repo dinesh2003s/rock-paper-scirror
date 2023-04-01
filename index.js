@@ -58,6 +58,6 @@ function gamemove(ourmove) {
     else {
         document.getElementById("computerpick").textContent = "computer pick: " + computermove;
         document.getElementById("result").textContent = "match: " + result;
-        document.getElementById("score").textContent = "wins:" + win + "\nlose: " + lose + "\ntie: " + tie;
+        document.getElementById("score").textContent = "wins:" + win + ", loses: " + lose + ", ties: " + tie;
     }
 }
